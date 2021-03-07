@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+![Plantcare][logo-plantcare]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**LETS GROW UP TOGETHER**. Helping to maintain and to improve your cute green place taking care of your plants remotely.
+
+# Getting started
 
 ## Available Scripts
 
@@ -68,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[logo-plantcare]: https://user-images.githubusercontent.com/6224703/100526618-de707980-31ca-11eb-9d4a-41606bb73709.png "Plantcare"
